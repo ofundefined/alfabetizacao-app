@@ -7,10 +7,11 @@ This folder contains the initial concept, MVP definition, and structure for **Ca
 ### Documentation
 
 - **PROJECT_VISION.md** — Full vision, pedagogy, target persona (Sr. Hélio), why this matters
-- **MVP_BREAKDOWN.md** — Technical roadmap, screens, implementation checklist, timeline
-- **PEDAGOGYY_NOTES.md** — Deep dive into Paulo Freire's approach and how we apply it
-- **CONTENT_PIPELINE.md** — How to write and test stories and phonetic lessons
-- **TEAM_AND_ROLES.md** — Who owns what (for when we grow)
+- **MVP_BREAKDOWN.md** — Technical roadmap, screens, implementation checklist, timeline (6–8 weeks)
+- **PEDAGOGY_NOTES.md** — Deep dive into Paulo Freire's approach and how we apply it to the app
+- **INFRASTRUCTURE.md** — Deployment on shared VPS using Docker Compose + Nginx
+- **ROLES_AND_RESPONSIBILITIES.md** — Team structure, weekly workflow, decision rights
+- **LOCAL_BACKLOG.md** — Weekly sprint tracking (synced to Notion)
 
 ### Folder Structure (when repo is initialized)
 
@@ -55,6 +56,14 @@ alfabetizacao-app/
 ---
 
 ## Getting Started (when repo is live)
+
+### Backlog Management
+
+**Notion (Shared Reference)**: https://www.notion.so/App-de-alfabetiza-o-freiriano-3460c05ece5180be9191f906cb97339b?source=copy_link
+
+**Local Sprint Tracking**: [LOCAL_BACKLOG.md](LOCAL_BACKLOG.md) (updated weekly)
+
+**Weekly Sync**: Local backlog → Notion (you lead) → GitHub Issues (automated)
 
 ### Prerequisites
 - Node.js 18+

@@ -10,16 +10,20 @@ Empower Sr. Hélio and millions like him — adults who never learned to read de
 
 ## Target Persona
 
-**Sr. Hélio**
+**Sr. Hélio** (composite, based on real people)
 - Age: 50+
-- Background: Rural worker ("roça"), daily wage labor in agriculture
+- **Current**: Ajudante de pedreiro (mason's helper) in São Paulo — daily wage labor in construction
+- **Background**: Roçador, fazedor de cerca, cortador de lenha, criador de passarinho in Bahia — diverse rural skills (brush-cutter, fence-maker, wood-cutter, bird-breeder)
 - Never attended school or dropped out early
-- Has oral knowledge, practical wisdom, dignity
-- Wants to read contracts, letters from family, instructions
+- Has deep oral knowledge, practical wisdom, DIY problem-solving, dignity
+- Wants to read: contracts, letters from family, instructions, tool labels, addresses, safety signs
 - Uses smartphone (increasingly common in rural BR)
-- Low education confidence but high life wisdom
+- Low formal education confidence but high life wisdom and hands-on capability
+- Multilingual in practice: Portuguese + regional dialects/regional expressions
 
-Similar personas: domestic workers, security guards, construction workers, anyone who grew up in poverty with no schooling.
+**Why he matters**: Sr. Hélio represents millions in Brazil and Latin America — people with rich knowledge and agency, denied literacy by poverty and circumstance, not lack of intelligence.
+
+Similar personas: domestic workers, security guards, other construction workers, agricultural workers, anyone who grew up in poverty with no schooling opportunity.
 
 ## Why "Caminho das Letras"?
 
