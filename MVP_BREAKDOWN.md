@@ -1,5 +1,7 @@
 # MVP Breakdown — Caminho das Letras
 
+Some audio chat and mnemonics images with text must be the leaver since the user does not know how to read. 
+
 ## Phase 1: Foundation (Weeks 1–2)
 
 ### Design & UX
